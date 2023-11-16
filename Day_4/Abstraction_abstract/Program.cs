@@ -37,6 +37,7 @@ class RumahMewah : Rumah
 }
 //child inheritance from parent
 class RumahBiasa : Rumah
+
 {
 	public override void BukaPintu()
 	{

@@ -43,7 +43,13 @@ class Bird : Animal
 }
 class Ant : Animal { }
 
-
+public static class IniExtension
+{
+	public static void Dump(this object x) 
+	{
+		Console.WriteLine(x.ToString());
+	}
+}
 
 
 

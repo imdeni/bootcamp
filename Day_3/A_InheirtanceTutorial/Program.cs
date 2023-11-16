@@ -15,8 +15,8 @@ class Program {
 
 class Animal
 {
-	public string colour;
-	public int age;
+	public string colour="red";
+	public int age=0;
 	public Animal() //Constructor
 	{
 		"Animal Created".Dump();	
