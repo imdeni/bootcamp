@@ -1,0 +1,15 @@
+D:\bootcamp-main\Try\ClassObject\obj\Debug\net7.0\ClassObject.csproj.AssemblyReference.cache
+D:\bootcamp-main\Try\ClassObject\obj\Debug\net7.0\ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp-main\Try\ClassObject\obj\Debug\net7.0\ClassObject.AssemblyInfoInputs.cache
+D:\bootcamp-main\Try\ClassObject\obj\Debug\net7.0\ClassObject.AssemblyInfo.cs
+D:\bootcamp-main\Try\ClassObject\obj\Debug\net7.0\ClassObject.csproj.CoreCompileInputs.cache
+D:\bootcamp-main\Try\ClassObject\bin\Debug\net7.0\ClassObject.exe
+D:\bootcamp-main\Try\ClassObject\bin\Debug\net7.0\ClassObject.deps.json
+D:\bootcamp-main\Try\ClassObject\bin\Debug\net7.0\ClassObject.runtimeconfig.json
+D:\bootcamp-main\Try\ClassObject\bin\Debug\net7.0\ClassObject.dll
+D:\bootcamp-main\Try\ClassObject\bin\Debug\net7.0\ClassObject.pdb
+D:\bootcamp-main\Try\ClassObject\obj\Debug\net7.0\ClassObject.dll
+D:\bootcamp-main\Try\ClassObject\obj\Debug\net7.0\refint\ClassObject.dll
+D:\bootcamp-main\Try\ClassObject\obj\Debug\net7.0\ClassObject.pdb
+D:\bootcamp-main\Try\ClassObject\obj\Debug\net7.0\ClassObject.genruntimeconfig.cache
+D:\bootcamp-main\Try\ClassObject\obj\Debug\net7.0\ref\ClassObject.dll

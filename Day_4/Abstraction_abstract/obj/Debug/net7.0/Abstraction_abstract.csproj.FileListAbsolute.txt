@@ -1,0 +1,15 @@
+D:\bootcamp-main\Day_4\Abstraction_abstract\bin\Debug\net7.0\Abstraction_abstract.exe
+D:\bootcamp-main\Day_4\Abstraction_abstract\bin\Debug\net7.0\Abstraction_abstract.deps.json
+D:\bootcamp-main\Day_4\Abstraction_abstract\bin\Debug\net7.0\Abstraction_abstract.runtimeconfig.json
+D:\bootcamp-main\Day_4\Abstraction_abstract\bin\Debug\net7.0\Abstraction_abstract.dll
+D:\bootcamp-main\Day_4\Abstraction_abstract\bin\Debug\net7.0\Abstraction_abstract.pdb
+D:\bootcamp-main\Day_4\Abstraction_abstract\obj\Debug\net7.0\Abstraction_abstract.csproj.AssemblyReference.cache
+D:\bootcamp-main\Day_4\Abstraction_abstract\obj\Debug\net7.0\Abstraction_abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp-main\Day_4\Abstraction_abstract\obj\Debug\net7.0\Abstraction_abstract.AssemblyInfoInputs.cache
+D:\bootcamp-main\Day_4\Abstraction_abstract\obj\Debug\net7.0\Abstraction_abstract.AssemblyInfo.cs
+D:\bootcamp-main\Day_4\Abstraction_abstract\obj\Debug\net7.0\Abstraction_abstract.csproj.CoreCompileInputs.cache
+D:\bootcamp-main\Day_4\Abstraction_abstract\obj\Debug\net7.0\Abstraction_abstract.dll
+D:\bootcamp-main\Day_4\Abstraction_abstract\obj\Debug\net7.0\refint\Abstraction_abstract.dll
+D:\bootcamp-main\Day_4\Abstraction_abstract\obj\Debug\net7.0\Abstraction_abstract.pdb
+D:\bootcamp-main\Day_4\Abstraction_abstract\obj\Debug\net7.0\Abstraction_abstract.genruntimeconfig.cache
+D:\bootcamp-main\Day_4\Abstraction_abstract\obj\Debug\net7.0\ref\Abstraction_abstract.dll

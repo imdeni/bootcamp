@@ -1,0 +1,15 @@
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\bin\Debug\net7.0\CatProgramParameter.exe
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\bin\Debug\net7.0\CatProgramParameter.deps.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\bin\Debug\net7.0\CatProgramParameter.runtimeconfig.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\bin\Debug\net7.0\CatProgramParameter.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\bin\Debug\net7.0\CatProgramParameter.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\obj\Debug\net7.0\CatProgramParameter.csproj.AssemblyReference.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\obj\Debug\net7.0\CatProgramParameter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\obj\Debug\net7.0\CatProgramParameter.AssemblyInfoInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\obj\Debug\net7.0\CatProgramParameter.AssemblyInfo.cs
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\obj\Debug\net7.0\CatProgramParameter.csproj.CoreCompileInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\obj\Debug\net7.0\CatProgramParameter.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\obj\Debug\net7.0\refint\CatProgramParameter.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\obj\Debug\net7.0\CatProgramParameter.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\obj\Debug\net7.0\CatProgramParameter.genruntimeconfig.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\CatProgramParameter\obj\Debug\net7.0\ref\CatProgramParameter.dll

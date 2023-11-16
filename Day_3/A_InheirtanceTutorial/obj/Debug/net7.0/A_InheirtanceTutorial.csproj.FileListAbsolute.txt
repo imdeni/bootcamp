@@ -1,0 +1,15 @@
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\bin\Debug\net7.0\A_InheirtanceTutorial.exe
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\bin\Debug\net7.0\A_InheirtanceTutorial.deps.json
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\bin\Debug\net7.0\A_InheirtanceTutorial.runtimeconfig.json
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\bin\Debug\net7.0\A_InheirtanceTutorial.dll
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\bin\Debug\net7.0\A_InheirtanceTutorial.pdb
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\obj\Debug\net7.0\A_InheirtanceTutorial.csproj.AssemblyReference.cache
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\obj\Debug\net7.0\A_InheirtanceTutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\obj\Debug\net7.0\A_InheirtanceTutorial.AssemblyInfoInputs.cache
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\obj\Debug\net7.0\A_InheirtanceTutorial.AssemblyInfo.cs
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\obj\Debug\net7.0\A_InheirtanceTutorial.csproj.CoreCompileInputs.cache
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\obj\Debug\net7.0\A_InheirtanceTutorial.dll
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\obj\Debug\net7.0\refint\A_InheirtanceTutorial.dll
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\obj\Debug\net7.0\A_InheirtanceTutorial.pdb
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\obj\Debug\net7.0\A_InheirtanceTutorial.genruntimeconfig.cache
+D:\bootcamp-main\Day_3\A_InheirtanceTutorial\obj\Debug\net7.0\ref\A_InheirtanceTutorial.dll
