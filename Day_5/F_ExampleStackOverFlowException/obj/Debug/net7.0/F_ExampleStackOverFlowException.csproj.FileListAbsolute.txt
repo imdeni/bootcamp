@@ -1,0 +1,15 @@
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\bin\Debug\net7.0\F_ExampleStackOverFlowException.exe
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\bin\Debug\net7.0\F_ExampleStackOverFlowException.deps.json
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\bin\Debug\net7.0\F_ExampleStackOverFlowException.runtimeconfig.json
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\bin\Debug\net7.0\F_ExampleStackOverFlowException.dll
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\bin\Debug\net7.0\F_ExampleStackOverFlowException.pdb
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\obj\Debug\net7.0\F_ExampleStackOverFlowException.csproj.AssemblyReference.cache
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\obj\Debug\net7.0\F_ExampleStackOverFlowException.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\obj\Debug\net7.0\F_ExampleStackOverFlowException.AssemblyInfoInputs.cache
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\obj\Debug\net7.0\F_ExampleStackOverFlowException.AssemblyInfo.cs
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\obj\Debug\net7.0\F_ExampleStackOverFlowException.csproj.CoreCompileInputs.cache
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\obj\Debug\net7.0\F_ExampleStackOverFlowException.dll
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\obj\Debug\net7.0\refint\F_ExampleStackOverFlowException.dll
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\obj\Debug\net7.0\F_ExampleStackOverFlowException.pdb
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\obj\Debug\net7.0\F_ExampleStackOverFlowException.genruntimeconfig.cache
+D:\bootcamp-main\Day_5\F_ExampleStackOverFlowException\obj\Debug\net7.0\ref\F_ExampleStackOverFlowException.dll
