@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Bootcamp_7_deni\\Day_5\\Day_5.csproj": {}
+    "D:\\bootcamp-main\\Day_5\\B_ReferenceType\\B_ReferenceType.csproj": {}
   },
   "projects": {
-    "d:\\Bootcamp_7_deni\\Day_5\\Day_5.csproj": {
+    "D:\\bootcamp-main\\Day_5\\B_ReferenceType\\B_ReferenceType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Bootcamp_7_deni\\Day_5\\Day_5.csproj",
-        "projectName": "Day_5",
-        "projectPath": "d:\\Bootcamp_7_deni\\Day_5\\Day_5.csproj",
+        "projectUniqueName": "D:\\bootcamp-main\\Day_5\\B_ReferenceType\\B_ReferenceType.csproj",
+        "projectName": "B_ReferenceType",
+        "projectPath": "D:\\bootcamp-main\\Day_5\\B_ReferenceType\\B_ReferenceType.csproj",
         "packagesPath": "C:\\Users\\Batch 7\\.nuget\\packages\\",
-        "outputPath": "d:\\Bootcamp_7_deni\\Day_5\\obj\\",
+        "outputPath": "D:\\bootcamp-main\\Day_5\\B_ReferenceType\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Batch 7\\AppData\\Roaming\\NuGet\\NuGet.Config"
