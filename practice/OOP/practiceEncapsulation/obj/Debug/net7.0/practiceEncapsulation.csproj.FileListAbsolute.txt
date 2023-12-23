@@ -1,0 +1,14 @@
+D:\bootcamp\practice\OOP\practiceEncapsulation\obj\Debug\net7.0\practiceEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\practice\OOP\practiceEncapsulation\obj\Debug\net7.0\practiceEncapsulation.AssemblyInfoInputs.cache
+D:\bootcamp\practice\OOP\practiceEncapsulation\obj\Debug\net7.0\practiceEncapsulation.AssemblyInfo.cs
+D:\bootcamp\practice\OOP\practiceEncapsulation\obj\Debug\net7.0\practiceEncapsulation.csproj.CoreCompileInputs.cache
+D:\bootcamp\practice\OOP\practiceEncapsulation\bin\Debug\net7.0\practiceEncapsulation.exe
+D:\bootcamp\practice\OOP\practiceEncapsulation\bin\Debug\net7.0\practiceEncapsulation.deps.json
+D:\bootcamp\practice\OOP\practiceEncapsulation\bin\Debug\net7.0\practiceEncapsulation.runtimeconfig.json
+D:\bootcamp\practice\OOP\practiceEncapsulation\bin\Debug\net7.0\practiceEncapsulation.dll
+D:\bootcamp\practice\OOP\practiceEncapsulation\bin\Debug\net7.0\practiceEncapsulation.pdb
+D:\bootcamp\practice\OOP\practiceEncapsulation\obj\Debug\net7.0\practiceEncapsulation.dll
+D:\bootcamp\practice\OOP\practiceEncapsulation\obj\Debug\net7.0\refint\practiceEncapsulation.dll
+D:\bootcamp\practice\OOP\practiceEncapsulation\obj\Debug\net7.0\practiceEncapsulation.pdb
+D:\bootcamp\practice\OOP\practiceEncapsulation\obj\Debug\net7.0\practiceEncapsulation.genruntimeconfig.cache
+D:\bootcamp\practice\OOP\practiceEncapsulation\obj\Debug\net7.0\ref\practiceEncapsulation.dll
