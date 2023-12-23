@@ -1,0 +1,15 @@
+D:\Bootcamp_7_deni\Day_2\bin\Debug\net7.0\Day_2.exe
+D:\Bootcamp_7_deni\Day_2\bin\Debug\net7.0\Day_2.deps.json
+D:\Bootcamp_7_deni\Day_2\bin\Debug\net7.0\Day_2.runtimeconfig.json
+D:\Bootcamp_7_deni\Day_2\bin\Debug\net7.0\Day_2.dll
+D:\Bootcamp_7_deni\Day_2\bin\Debug\net7.0\Day_2.pdb
+D:\Bootcamp_7_deni\Day_2\obj\Debug\net7.0\Day_2.csproj.AssemblyReference.cache
+D:\Bootcamp_7_deni\Day_2\obj\Debug\net7.0\Day_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp_7_deni\Day_2\obj\Debug\net7.0\Day_2.AssemblyInfoInputs.cache
+D:\Bootcamp_7_deni\Day_2\obj\Debug\net7.0\Day_2.AssemblyInfo.cs
+D:\Bootcamp_7_deni\Day_2\obj\Debug\net7.0\Day_2.csproj.CoreCompileInputs.cache
+D:\Bootcamp_7_deni\Day_2\obj\Debug\net7.0\Day_2.dll
+D:\Bootcamp_7_deni\Day_2\obj\Debug\net7.0\refint\Day_2.dll
+D:\Bootcamp_7_deni\Day_2\obj\Debug\net7.0\Day_2.pdb
+D:\Bootcamp_7_deni\Day_2\obj\Debug\net7.0\Day_2.genruntimeconfig.cache
+D:\Bootcamp_7_deni\Day_2\obj\Debug\net7.0\ref\Day_2.dll

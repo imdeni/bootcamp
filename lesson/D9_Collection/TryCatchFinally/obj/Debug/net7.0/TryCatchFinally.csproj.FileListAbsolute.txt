@@ -1,0 +1,15 @@
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.exe
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.deps.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.runtimeconfig.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\bin\Debug\net7.0\TryCatchFinally.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.csproj.AssemblyReference.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.AssemblyInfoInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.AssemblyInfo.cs
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\obj\Debug\net7.0\refint\TryCatchFinally.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\obj\Debug\net7.0\TryCatchFinally.genruntimeconfig.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\TryCatchFinally\obj\Debug\net7.0\ref\TryCatchFinally.dll

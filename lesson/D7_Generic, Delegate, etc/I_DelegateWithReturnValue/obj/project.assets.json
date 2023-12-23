@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Dumper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Dumper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dumper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dumper/1.0.0": {
+      "type": "project",
+      "path": "../Dumper/Dumper.csproj",
+      "msbuildProject": "../Dumper/Dumper.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Dumper >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kinar\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Bootcamp\\Day7\\I_DelegateWithReturnValue\\I_DelegateWithReturnValue.csproj",
+      "projectName": "I_DelegateWithReturnValue",
+      "projectPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Bootcamp\\Day7\\I_DelegateWithReturnValue\\I_DelegateWithReturnValue.csproj",
+      "packagesPath": "C:\\Users\\kinar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Bootcamp\\Day7\\I_DelegateWithReturnValue\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kinar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Bootcamp\\Day7\\Dumper\\Dumper.csproj": {
+              "projectPath": "C:\\Users\\kinar\\OneDrive\\File Lama\\Desktop\\Bootcamp\\Day7\\Dumper\\Dumper.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

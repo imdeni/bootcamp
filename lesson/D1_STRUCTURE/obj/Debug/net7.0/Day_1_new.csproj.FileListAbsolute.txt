@@ -1,0 +1,15 @@
+D:\Bootcamp\Day_1\bin\Debug\net7.0\Day_1_new.exe
+D:\Bootcamp\Day_1\bin\Debug\net7.0\Day_1_new.deps.json
+D:\Bootcamp\Day_1\bin\Debug\net7.0\Day_1_new.runtimeconfig.json
+D:\Bootcamp\Day_1\bin\Debug\net7.0\Day_1_new.dll
+D:\Bootcamp\Day_1\bin\Debug\net7.0\Day_1_new.pdb
+D:\Bootcamp\Day_1\obj\Debug\net7.0\Day_1_new.csproj.AssemblyReference.cache
+D:\Bootcamp\Day_1\obj\Debug\net7.0\Day_1_new.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp\Day_1\obj\Debug\net7.0\Day_1_new.AssemblyInfoInputs.cache
+D:\Bootcamp\Day_1\obj\Debug\net7.0\Day_1_new.AssemblyInfo.cs
+D:\Bootcamp\Day_1\obj\Debug\net7.0\Day_1_new.csproj.CoreCompileInputs.cache
+D:\Bootcamp\Day_1\obj\Debug\net7.0\Day_1_new.dll
+D:\Bootcamp\Day_1\obj\Debug\net7.0\refint\Day_1_new.dll
+D:\Bootcamp\Day_1\obj\Debug\net7.0\Day_1_new.pdb
+D:\Bootcamp\Day_1\obj\Debug\net7.0\Day_1_new.genruntimeconfig.cache
+D:\Bootcamp\Day_1\obj\Debug\net7.0\ref\Day_1_new.dll

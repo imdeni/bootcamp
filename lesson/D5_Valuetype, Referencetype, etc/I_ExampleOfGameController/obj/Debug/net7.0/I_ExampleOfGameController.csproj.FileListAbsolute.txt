@@ -1,0 +1,14 @@
+D:\project\d5\I_ExampleOfGameController\obj\Debug\net7.0\I_ExampleOfGameController.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\d5\I_ExampleOfGameController\obj\Debug\net7.0\I_ExampleOfGameController.AssemblyInfoInputs.cache
+D:\project\d5\I_ExampleOfGameController\obj\Debug\net7.0\I_ExampleOfGameController.AssemblyInfo.cs
+D:\project\d5\I_ExampleOfGameController\obj\Debug\net7.0\I_ExampleOfGameController.csproj.CoreCompileInputs.cache
+D:\project\d5\I_ExampleOfGameController\bin\Debug\net7.0\I_ExampleOfGameController.exe
+D:\project\d5\I_ExampleOfGameController\bin\Debug\net7.0\I_ExampleOfGameController.deps.json
+D:\project\d5\I_ExampleOfGameController\bin\Debug\net7.0\I_ExampleOfGameController.runtimeconfig.json
+D:\project\d5\I_ExampleOfGameController\bin\Debug\net7.0\I_ExampleOfGameController.dll
+D:\project\d5\I_ExampleOfGameController\bin\Debug\net7.0\I_ExampleOfGameController.pdb
+D:\project\d5\I_ExampleOfGameController\obj\Debug\net7.0\I_ExampleOfGameController.dll
+D:\project\d5\I_ExampleOfGameController\obj\Debug\net7.0\refint\I_ExampleOfGameController.dll
+D:\project\d5\I_ExampleOfGameController\obj\Debug\net7.0\I_ExampleOfGameController.pdb
+D:\project\d5\I_ExampleOfGameController\obj\Debug\net7.0\I_ExampleOfGameController.genruntimeconfig.cache
+D:\project\d5\I_ExampleOfGameController\obj\Debug\net7.0\ref\I_ExampleOfGameController.dll

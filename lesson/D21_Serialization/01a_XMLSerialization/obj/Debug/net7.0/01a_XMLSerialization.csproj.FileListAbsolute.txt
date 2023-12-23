@@ -1,0 +1,15 @@
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\bin\Debug\net7.0\01a_XMLSerialization.exe
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\bin\Debug\net7.0\01a_XMLSerialization.deps.json
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\bin\Debug\net7.0\01a_XMLSerialization.runtimeconfig.json
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\bin\Debug\net7.0\01a_XMLSerialization.dll
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\bin\Debug\net7.0\01a_XMLSerialization.pdb
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.csproj.AssemblyReference.cache
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.GeneratedMSBuildEditorConfig.editorconfig
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.AssemblyInfoInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.AssemblyInfo.cs
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.csproj.CoreCompileInputs.cache
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.dll
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\refint\01a_XMLSerialization.dll
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.pdb
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\01a_XMLSerialization.genruntimeconfig.cache
+c:\CSharp\Bootcamp\vscode\Day 21\01a_XMLSerialization\obj\Debug\net7.0\ref\01a_XMLSerialization.dll

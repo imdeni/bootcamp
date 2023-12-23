@@ -1,0 +1,15 @@
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\bin\Debug\net7.0\HashSet.exe
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\bin\Debug\net7.0\HashSet.deps.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\bin\Debug\net7.0\HashSet.runtimeconfig.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\bin\Debug\net7.0\HashSet.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\bin\Debug\net7.0\HashSet.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\obj\Debug\net7.0\HashSet.csproj.AssemblyReference.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\obj\Debug\net7.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\obj\Debug\net7.0\HashSet.AssemblyInfoInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\obj\Debug\net7.0\HashSet.AssemblyInfo.cs
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\obj\Debug\net7.0\HashSet.csproj.CoreCompileInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\obj\Debug\net7.0\HashSet.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\obj\Debug\net7.0\refint\HashSet.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\obj\Debug\net7.0\HashSet.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\obj\Debug\net7.0\HashSet.genruntimeconfig.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\HashSet\obj\Debug\net7.0\ref\HashSet.dll

@@ -1,0 +1,15 @@
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\bin\Debug\net7.0\GameController.exe
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\bin\Debug\net7.0\GameController.deps.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\bin\Debug\net7.0\GameController.runtimeconfig.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\bin\Debug\net7.0\GameController.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\bin\Debug\net7.0\GameController.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\obj\Debug\net7.0\GameController.csproj.AssemblyReference.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\obj\Debug\net7.0\GameController.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\obj\Debug\net7.0\GameController.AssemblyInfoInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\obj\Debug\net7.0\GameController.AssemblyInfo.cs
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\obj\Debug\net7.0\GameController.csproj.CoreCompileInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\obj\Debug\net7.0\GameController.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\obj\Debug\net7.0\refint\GameController.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\obj\Debug\net7.0\GameController.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\obj\Debug\net7.0\GameController.genruntimeconfig.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\GameController\obj\Debug\net7.0\ref\GameController.dll

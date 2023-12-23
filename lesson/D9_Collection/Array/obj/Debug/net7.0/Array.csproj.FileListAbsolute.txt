@@ -1,0 +1,29 @@
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\bin\Debug\net7.0\Array.exe
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\bin\Debug\net7.0\Array.deps.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\bin\Debug\net7.0\Array.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\bin\Debug\net7.0\Array.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\obj\Debug\net7.0\Array.csproj.AssemblyReference.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\obj\Debug\net7.0\Array.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\obj\Debug\net7.0\refint\Array.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\obj\Debug\net7.0\Array.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\Array\obj\Debug\net7.0\ref\Array.dll
+D:\project\d9\Array\bin\Debug\net7.0\Array.exe
+D:\project\d9\Array\bin\Debug\net7.0\Array.deps.json
+D:\project\d9\Array\bin\Debug\net7.0\Array.runtimeconfig.json
+D:\project\d9\Array\bin\Debug\net7.0\Array.dll
+D:\project\d9\Array\bin\Debug\net7.0\Array.pdb
+D:\project\d9\Array\obj\Debug\net7.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\d9\Array\obj\Debug\net7.0\Array.AssemblyInfoInputs.cache
+D:\project\d9\Array\obj\Debug\net7.0\Array.AssemblyInfo.cs
+D:\project\d9\Array\obj\Debug\net7.0\Array.csproj.CoreCompileInputs.cache
+D:\project\d9\Array\obj\Debug\net7.0\Array.dll
+D:\project\d9\Array\obj\Debug\net7.0\refint\Array.dll
+D:\project\d9\Array\obj\Debug\net7.0\Array.pdb
+D:\project\d9\Array\obj\Debug\net7.0\Array.genruntimeconfig.cache
+D:\project\d9\Array\obj\Debug\net7.0\ref\Array.dll

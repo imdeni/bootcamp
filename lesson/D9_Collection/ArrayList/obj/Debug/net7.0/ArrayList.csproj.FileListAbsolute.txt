@@ -1,0 +1,15 @@
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\bin\Debug\net7.0\ArrayList.exe
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\bin\Debug\net7.0\ArrayList.deps.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\bin\Debug\net7.0\ArrayList.runtimeconfig.json
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\bin\Debug\net7.0\ArrayList.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\bin\Debug\net7.0\ArrayList.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\obj\Debug\net7.0\ArrayList.csproj.AssemblyReference.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\obj\Debug\net7.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfoInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\obj\Debug\net7.0\ArrayList.AssemblyInfo.cs
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\obj\Debug\net7.0\ArrayList.csproj.CoreCompileInputs.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\obj\Debug\net7.0\ArrayList.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\obj\Debug\net7.0\refint\ArrayList.dll
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\obj\Debug\net7.0\ArrayList.pdb
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\obj\Debug\net7.0\ArrayList.genruntimeconfig.cache
+c:\Users\kinar\OneDrive\File Lama\Desktop\Bootcamp\ArrayList\obj\Debug\net7.0\ref\ArrayList.dll
