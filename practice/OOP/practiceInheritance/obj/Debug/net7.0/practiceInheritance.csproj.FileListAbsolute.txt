@@ -1,0 +1,14 @@
+D:\bootcamp\practice\OOP\practiceInheritance\bin\Debug\net7.0\practiceInheritance.exe
+D:\bootcamp\practice\OOP\practiceInheritance\bin\Debug\net7.0\practiceInheritance.deps.json
+D:\bootcamp\practice\OOP\practiceInheritance\bin\Debug\net7.0\practiceInheritance.runtimeconfig.json
+D:\bootcamp\practice\OOP\practiceInheritance\bin\Debug\net7.0\practiceInheritance.dll
+D:\bootcamp\practice\OOP\practiceInheritance\bin\Debug\net7.0\practiceInheritance.pdb
+D:\bootcamp\practice\OOP\practiceInheritance\obj\Debug\net7.0\practiceInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\practice\OOP\practiceInheritance\obj\Debug\net7.0\practiceInheritance.AssemblyInfoInputs.cache
+D:\bootcamp\practice\OOP\practiceInheritance\obj\Debug\net7.0\practiceInheritance.AssemblyInfo.cs
+D:\bootcamp\practice\OOP\practiceInheritance\obj\Debug\net7.0\practiceInheritance.csproj.CoreCompileInputs.cache
+D:\bootcamp\practice\OOP\practiceInheritance\obj\Debug\net7.0\practiceInheritance.dll
+D:\bootcamp\practice\OOP\practiceInheritance\obj\Debug\net7.0\refint\practiceInheritance.dll
+D:\bootcamp\practice\OOP\practiceInheritance\obj\Debug\net7.0\practiceInheritance.pdb
+D:\bootcamp\practice\OOP\practiceInheritance\obj\Debug\net7.0\practiceInheritance.genruntimeconfig.cache
+D:\bootcamp\practice\OOP\practiceInheritance\obj\Debug\net7.0\ref\practiceInheritance.dll
