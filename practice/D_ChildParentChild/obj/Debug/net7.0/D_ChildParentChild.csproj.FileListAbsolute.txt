@@ -1,0 +1,14 @@
+D:\bootcamp\practice\D_ChildParentChild\bin\Debug\net7.0\D_ChildParentChild.exe
+D:\bootcamp\practice\D_ChildParentChild\bin\Debug\net7.0\D_ChildParentChild.deps.json
+D:\bootcamp\practice\D_ChildParentChild\bin\Debug\net7.0\D_ChildParentChild.runtimeconfig.json
+D:\bootcamp\practice\D_ChildParentChild\bin\Debug\net7.0\D_ChildParentChild.dll
+D:\bootcamp\practice\D_ChildParentChild\bin\Debug\net7.0\D_ChildParentChild.pdb
+D:\bootcamp\practice\D_ChildParentChild\obj\Debug\net7.0\D_ChildParentChild.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\practice\D_ChildParentChild\obj\Debug\net7.0\D_ChildParentChild.AssemblyInfoInputs.cache
+D:\bootcamp\practice\D_ChildParentChild\obj\Debug\net7.0\D_ChildParentChild.AssemblyInfo.cs
+D:\bootcamp\practice\D_ChildParentChild\obj\Debug\net7.0\D_ChildParentChild.csproj.CoreCompileInputs.cache
+D:\bootcamp\practice\D_ChildParentChild\obj\Debug\net7.0\D_ChildParentChild.dll
+D:\bootcamp\practice\D_ChildParentChild\obj\Debug\net7.0\refint\D_ChildParentChild.dll
+D:\bootcamp\practice\D_ChildParentChild\obj\Debug\net7.0\D_ChildParentChild.pdb
+D:\bootcamp\practice\D_ChildParentChild\obj\Debug\net7.0\D_ChildParentChild.genruntimeconfig.cache
+D:\bootcamp\practice\D_ChildParentChild\obj\Debug\net7.0\ref\D_ChildParentChild.dll

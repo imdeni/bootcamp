@@ -1,0 +1,7 @@
+String (mutable (no memory using string builder) )
+String (imutable (new memory allocation) )
+Collection (Array,List, etc)
+Class
+Delegate
+
+memory (Heap)
