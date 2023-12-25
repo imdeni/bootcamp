@@ -1,0 +1,14 @@
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\obj\Debug\net7.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\obj\Debug\net7.0\interface.AssemblyInfoInputs.cache
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\obj\Debug\net7.0\interface.AssemblyInfo.cs
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\obj\Debug\net7.0\interface.csproj.CoreCompileInputs.cache
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\bin\Debug\net7.0\interface.exe
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\bin\Debug\net7.0\interface.deps.json
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\bin\Debug\net7.0\interface.runtimeconfig.json
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\bin\Debug\net7.0\interface.dll
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\bin\Debug\net7.0\interface.pdb
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\obj\Debug\net7.0\interface.dll
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\obj\Debug\net7.0\refint\interface.dll
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\obj\Debug\net7.0\interface.pdb
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\obj\Debug\net7.0\interface.genruntimeconfig.cache
+D:\bootcamp\practice\OOP\practiceAbstaction\interface\obj\Debug\net7.0\ref\interface.dll
